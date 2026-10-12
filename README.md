@@ -141,7 +141,7 @@ kelas = (proba >= 0.5).astype(int)
 
 ## Keterbatasan
 
-- Akurasi uji **78,78%**, belum mencapai target 90%. Kelas upah tinggi hanya 15% data sehingga precision-nya rendah (0,40).
+- Akurasi uji **78,78%**. Kelas upah tinggi hanya 15% data sehingga precision-nya rendah (0,40).
 - Bila `industri` dan `pekerjaan` tidak diisi, semua kolom dummy-nya bernilai 0, padahal `pekerjaan` adalah fitur dengan hubungan terkuat terhadap target. Prediksi menjadi kurang akurat.
 - Data berasal dari Amerika Serikat (1981–2013) dengan upah dalam dolar 2010, sehingga model tidak mewakili pasar kerja Indonesia.
 - Hasil menunjukkan **asosiasi**, bukan bukti sebab-akibat diskriminasi upah.
