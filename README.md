@@ -16,7 +16,7 @@ Model klasifikasi biner yang memprediksi apakah seorang tenaga kerja berpenghasi
 | 2 | Dino Fahri | E1E125007 |
 | 3 | Muhammad Alfin | E1E125086 |
 
-Dosen pengampu: [Nama dosen]
+Dosen pengampu: Ilham Julian Efendi, ST., MT
 
 ## Ringkasan
 
