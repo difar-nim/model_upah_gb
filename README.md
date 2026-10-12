@@ -6,6 +6,25 @@ Model klasifikasi biner yang memprediksi apakah seorang tenaga kerja berpenghasi
 - **Algoritma:** `GradientBoostingClassifier` (scikit-learn), satu-satunya algoritma yang dipakai
 - **File model:** `model_upah_gb.joblib`
 
+## Tim
+
+**Kelompok 5**, Kecerdasan Buatan, Teknik Informatika, Universitas Halu Oleo
+
+| No | Nama | NIM |
+|---|---|---|
+| 1 |Saskia Masita | E1E125067 |
+| 2 | Dino Fahri | E1E125007 |
+| 3 | Muhammad Alfin | E1E125086 |
+
+Dosen pengampu: [Nama dosen]
+
+## Ringkasan
+
+- **Algoritma:** `GradientBoostingClassifier` (scikit-learn), satu-satunya algoritma yang dipakai
+- **File model:** `model_upah_gb.joblib`
+
+
+
 ## Data
 
 Dataset: [Gender Pay Gap Dataset (fedesoriano, Kaggle)](https://www.kaggle.com/datasets/fedesoriano/gender-pay-gap-dataset), gabungan dua survei Amerika Serikat.
